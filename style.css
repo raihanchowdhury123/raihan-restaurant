@@ -1,0 +1,69 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+#wlc {
+    font-size: 70px;
+    text-align: center;
+}
+
+#tac {
+    font-size: 50px;
+    text-align: center;
+    color: rgb(111, 111, 113);
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h4 {
+    text-align: center;
+}
+
+section {
+    display: flex;
+}
+
+.Los {
+    width: 50%%;
+    padding: 5%;
+}
+
+.Los img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: rgb(54, 14, 199);
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+h2 {
+    font-size: 70px;
+}
+
+p {
+    font-weight: 500;
+}
+
+#ri {
+    text-align: center;
+}
+
+#bi {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-weight: 300;
+}
+
+footer {
+    text-align: center;
+}
